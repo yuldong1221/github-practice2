@@ -293,4 +293,13 @@ Example:
 
 User B: https://github.com/userB/repo
 
+## Reproducibility
 
+This project uses `renv` to manage package dependencies and ensure reproducibility.
+
+### Setup instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   cd YOUR_REPO
